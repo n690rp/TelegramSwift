@@ -3,7 +3,7 @@
 1. Clone this repository with submodules:
 	
 	```sh
-	git clone https://github.com/overtake/TelegramSwift.git --recurse-submodules
+	git clone https://github.com/n690rp/TelegramSwift.git --recurse-submodules
 	```
 2.  ```brew install cmake ninja openssl@1.1 zlib autoconf libtool automake yasm pkg-config```
 3.  ```sh %project_dir%/scripts/configure_frameworks.sh```
